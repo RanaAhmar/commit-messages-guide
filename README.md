@@ -6,6 +6,7 @@
 Stop writing `fixed stuff` or `WIP`. Your git log is a public record of your thought process. This guide provides the ultimate framework for writing commit messages that your team (and your future self) will thank you for.
 
 
+
 ---
 
 ## 🚀 Discover More from Stackaura
@@ -23,4 +24,5 @@ If you found this tool useful, check out our other high-performance web utilitie
 - **Author:** [Ahmar Hussain](https://github.com/RanaAhmar)
 
 ---
+
 
